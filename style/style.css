@@ -1,0 +1,41 @@
+#login_box{
+  text-align: center;
+  background-color: aquamarine;
+  width: 400px;
+  margin: 100px auto;
+  padding-top: 50px;
+  padding-bottom: 60px;
+  border: 1px solid black;
+}
+#login_box input[type=submit]:hover{
+  background-color: green;
+}
+
+#registration_box{
+  text-align: center;
+  width: 400px;
+  background-color: #ffcc40;
+  margin: 100px auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 2px solid black;
+}
+#registration_box input[type=submit]:hover{
+  background-color:  aqua;
+}
+
+
+#reset_box{
+  text-align: center;
+  width: 400px;
+  background-color: #4fb812;
+  margin: 100px auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 2px solid black;
+}
+
+
+#reset_box input[type=submit]:hover{
+  background-color: red;
+}
